@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESDCHAR_VERSION = 'd0281ff8569817d9c1919d0ef7fbea6d89595b44'
+AESDCHAR_VERSION = '057f89ee362a97650367a909c00c203780cc4ea7'
 AESDCHAR_SITE = "git@github.com:cu-ecen-aeld/assignments-3-and-later-yarammg.git"
 AESDCHAR_SITE_METHOD = git
 
